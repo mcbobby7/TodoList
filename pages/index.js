@@ -6,25 +6,18 @@ import uuid from 'uuid';
 
 class index extends React.Component {
 
-  state = {
-    todos: [
-               {
-                   id: uuid.v4(),
-                   title: 'Complete ENYE todo list', 
-                   completed: false
-               },
-               {
-                   id: uuid.v4(),
-                   title: 'Refracture my code',
-                   completed: false
-               },
-               {
-                   id: uuid.v4(),
-                   title: 'Minify my code',
-                   completed: false
-               }
-     ]
- }
+  constructor() {
+    super();
+    this.state = {
+      todos: []
+    }
+  }
+
+  componentDidMount() {
+    fetch('/todos')
+      .then(res => res.json())
+      .then(todos => this.setState({todos}));
+  }
 
  markComplete = (id) => {
   this.setState({ todos: this.state.todos.map(todo => {

@@ -183,10 +183,10 @@ function (_React$Component) {
           lineNumber: 6
         },
         __self: this
-      }, " &copy copyright Mcbobby Madu 2019"), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement(styled_jsx_style__WEBPACK_IMPORTED_MODULE_5___default.a, {
+      }, " copyright Mcbobby Madu 2019"), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement(styled_jsx_style__WEBPACK_IMPORTED_MODULE_5___default.a, {
         id: "3644296107",
         __self: this
-      }, "#footer.jsx-3644296107{background-color:#333;color:white;text-align:center;position:absolute;bottom:0px;left:0;right:0;width:100%;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkM6XFxVc2Vyc1xcbWNib2JieVxcRGVza3RvcFxcdG9kb1xcY29tcG9uZW50c1xcZm9vdGVyLmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQU1zQixBQUMrQixzQkFBYSxZQUFtQixrQkFBbUIsa0JBQVksV0FBUSxPQUFTLFFBQVcsV0FBQyIsImZpbGUiOiJDOlxcVXNlcnNcXG1jYm9iYnlcXERlc2t0b3BcXHRvZG9cXGNvbXBvbmVudHNcXGZvb3Rlci5qcyIsInNvdXJjZXNDb250ZW50IjpbIlxyXG5jbGFzcyBmb290ZXIgZXh0ZW5kcyBSZWFjdC5Db21wb25lbnQge1xyXG4gIHJlbmRlcigpIHtcclxuICAgIHJldHVybiAoXHJcbiAgICAgIDxkaXYgaWQ9XCJmb290ZXJcIj5cclxuICAgICAgICAgPGg1PiAmY29weSBjb3B5cmlnaHQgTWNib2JieSBNYWR1IDIwMTk8L2g1PlxyXG4gICAgICAgICAgPHN0eWxlIGpzeD57JyNmb290ZXJ7IGJhY2tncm91bmQtY29sb3I6ICMzMzM7IGNvbG9yOiB3aGl0ZTsgdGV4dC1hbGlnbjogY2VudGVyOyBwb3NpdGlvbjogYWJzb2x1dGU7IGJvdHRvbTogMHB4OyBsZWZ0OiAwOyByaWdodDogMDsgd2lkdGg6IDEwMCV9ICd9PC9zdHlsZT5cclxuXHJcbiAgICAgIDwvZGl2PlxyXG4gICAgICBcclxuICAgICk7XHJcbiAgfVxyXG59XHJcblxyXG5leHBvcnQgZGVmYXVsdCBmb290ZXI7XHJcbiJdfQ== */\n/*@ sourceURL=C:\\Users\\mcbobby\\Desktop\\todo\\components\\footer.js */"));
+      }, "#footer.jsx-3644296107{background-color:#333;color:white;text-align:center;position:absolute;bottom:0px;left:0;right:0;width:100%;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkM6XFxVc2Vyc1xcbWNib2JieVxcRGVza3RvcFxcdG9kb1xcY29tcG9uZW50c1xcZm9vdGVyLmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQU1zQixBQUMrQixzQkFBYSxZQUFtQixrQkFBbUIsa0JBQVksV0FBUSxPQUFTLFFBQVcsV0FBQyIsImZpbGUiOiJDOlxcVXNlcnNcXG1jYm9iYnlcXERlc2t0b3BcXHRvZG9cXGNvbXBvbmVudHNcXGZvb3Rlci5qcyIsInNvdXJjZXNDb250ZW50IjpbIlxyXG5jbGFzcyBmb290ZXIgZXh0ZW5kcyBSZWFjdC5Db21wb25lbnQge1xyXG4gIHJlbmRlcigpIHtcclxuICAgIHJldHVybiAoXHJcbiAgICAgIDxkaXYgaWQ9XCJmb290ZXJcIj5cclxuICAgICAgICAgPGg1PiBjb3B5cmlnaHQgTWNib2JieSBNYWR1IDIwMTk8L2g1PlxyXG4gICAgICAgICAgPHN0eWxlIGpzeD57JyNmb290ZXJ7IGJhY2tncm91bmQtY29sb3I6ICMzMzM7IGNvbG9yOiB3aGl0ZTsgdGV4dC1hbGlnbjogY2VudGVyOyBwb3NpdGlvbjogYWJzb2x1dGU7IGJvdHRvbTogMHB4OyBsZWZ0OiAwOyByaWdodDogMDsgd2lkdGg6IDEwMCV9ICd9PC9zdHlsZT5cclxuXHJcbiAgICAgIDwvZGl2PlxyXG4gICAgICBcclxuICAgICk7XHJcbiAgfVxyXG59XHJcblxyXG5leHBvcnQgZGVmYXVsdCBmb290ZXI7XHJcbiJdfQ== */\n/*@ sourceURL=C:\\Users\\mcbobby\\Desktop\\todo\\components\\footer.js */"));
     }
   }]);
 
@@ -6172,7 +6172,6 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "C:\\Users\\mcbobby\\Desktop\\todo\\pages\\index.js";
 
 
 
@@ -6185,33 +6184,11 @@ function (_React$Component) {
   Object(_babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_6__["default"])(index, _React$Component);
 
   function index() {
-    var _getPrototypeOf2;
-
     var _this;
 
     Object(_babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_1__["default"])(this, index);
 
-    for (var _len = arguments.length, args = new Array(_len), _key = 0; _key < _len; _key++) {
-      args[_key] = arguments[_key];
-    }
-
-    _this = Object(_babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_3__["default"])(this, (_getPrototypeOf2 = Object(_babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_4__["default"])(index)).call.apply(_getPrototypeOf2, [this].concat(args)));
-
-    Object(_babel_runtime_corejs2_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_7__["default"])(Object(_babel_runtime_corejs2_helpers_esm_assertThisInitialized__WEBPACK_IMPORTED_MODULE_5__["default"])(_this), "state", {
-      todos: [{
-        id: uuid__WEBPACK_IMPORTED_MODULE_12___default.a.v4(),
-        title: 'Complete ENYE todo list',
-        completed: false
-      }, {
-        id: uuid__WEBPACK_IMPORTED_MODULE_12___default.a.v4(),
-        title: 'Refracture my code',
-        completed: false
-      }, {
-        id: uuid__WEBPACK_IMPORTED_MODULE_12___default.a.v4(),
-        title: 'Minify my code',
-        completed: false
-      }]
-    });
+    _this = Object(_babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_3__["default"])(this, Object(_babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_4__["default"])(index).call(this));
 
     Object(_babel_runtime_corejs2_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_7__["default"])(Object(_babel_runtime_corejs2_helpers_esm_assertThisInitialized__WEBPACK_IMPORTED_MODULE_5__["default"])(_this), "markComplete", function (id) {
       _this.setState({
@@ -6245,60 +6222,44 @@ function (_React$Component) {
       });
     });
 
+    _this.state = {
+      todos: []
+    };
     return _this;
   }
 
   Object(_babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_2__["default"])(index, [{
+    key: "componentDidMount",
+    value: function componentDidMount() {
+      var _this2 = this;
+
+      fetch('/todos').then(function (res) {
+        return res.json();
+      }).then(function (todos) {
+        return _this2.setState({
+          todos: todos
+        });
+      });
+    }
+  }, {
     key: "render",
     value: function render() {
-      return react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("div", {
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 53
-        },
-        __self: this
-      }, react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(_components_layouts__WEBPACK_IMPORTED_MODULE_9__["default"], {
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 54
-        },
-        __self: this
-      }, react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("div", {
+      return react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(_components_layouts__WEBPACK_IMPORTED_MODULE_9__["default"], null, react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("div", {
         style: {
           padding: '0 1rem'
-        },
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 55
-        },
-        __self: this
+        }
       }, react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("p", {
         style: {
           color: 'red',
           float: 'right',
           paddingRight: '20px'
-        },
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 56
-        },
-        __self: this
+        }
       }, "To complete a task click the check box"), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(_components_addTodo__WEBPACK_IMPORTED_MODULE_11__["default"], {
-        addTodo: this.addTodo,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 57
-        },
-        __self: this
+        addTodo: this.addTodo
       }), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(_components_todos__WEBPACK_IMPORTED_MODULE_10__["default"], {
         todos: this.state.todos,
         delTodo: this.delTodo,
-        markComplete: this.markComplete,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 58
-        },
-        __self: this
+        markComplete: this.markComplete
       }))));
     }
   }]);
